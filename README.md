@@ -5,7 +5,7 @@ How to run the scrappers
 
 #BEAUTIFUL SOUP AND SELENIUM
 
-Beautiful soup and Selenium can be run using any python interpretor. The output is saved as a csv file named BS_output or Selenium ouput respectively in the directory.
+Beautiful soup and Selenium can be run using any python interpretor. The output is saved as a csv file named BS_output or Selenium_ouput respectively in the directory.
 You can however uncomment the print lines in the code to see the results in the terminal as it is being scrapped
 
 #SCRAPY
